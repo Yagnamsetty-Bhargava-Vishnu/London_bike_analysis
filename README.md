@@ -1,4 +1,4 @@
-# London-Bike-rentals-Analysis
+# London-Bike-Rentals-Analysis
 
 You can explore the interactive visualization here: https://public.tableau.com/shared/BKDSC9DXX?:display_count=n&:origin=viz_share_link
 
