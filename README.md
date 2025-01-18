@@ -1,6 +1,6 @@
 # London-Bike-rentals-Analysis
 
-You can explore the interactive visualization here: https://public.tableau.com/app/profile/jaya.sai.prakash.putta/viz/shared/S7S69TSQG
+You can explore the interactive visualization here: https://public.tableau.com/shared/BKDSC9DXX?:display_count=n&:origin=viz_share_link
 
 London Bike Sharing Dataset Analysis
 This repository contains an analysis of the London bike-sharing dataset, which includes data on bike rentals along with relevant weather and temporal variables. The dataset comprises 17,414 entries with the following features:
